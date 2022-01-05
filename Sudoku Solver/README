@@ -1,0 +1,2 @@
+This is a sudoku solver that takes in a matrix defined in the sudokuN.txt files. The matrix corresponds 1 to 1 to a sudoku board. It can solve sudoku grids of any size. It is 
+solved using recursion. 
