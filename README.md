@@ -1,2 +1,2 @@
 # Various-Illinois-Programs
-Various Programs made at the University of Illinois
+Various Programs made by me at the University of Illinois
