@@ -1,0 +1,2 @@
+This is a histogram created in the assembly language lc-3. It takes in an arbitrarily long string and counts the number of letters a-z as well as special characters within the
+string. lc-3 is an educational computer programming language that you can read more about here: https://en.wikipedia.org/wiki/Little_Computer_3 
